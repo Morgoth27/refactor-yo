@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header box at the top of the page, setting color and font color and types */
+/* Header styling */
 
 .header {
     padding: 20px;
@@ -19,7 +19,7 @@ body {
     color: #ffffff;
 }
 
-/* Logo formatting at the top of the page, within the header box */
+/* Logo formatting at the top of the page, within the nav box */
 
 .header h1 {
     display: inline-block;
@@ -32,7 +32,7 @@ body {
 
 /* Sending the top most links to the right side of the page, and setting them as inline objects, rather than list */
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,11 +40,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
