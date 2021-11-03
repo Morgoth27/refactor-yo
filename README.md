@@ -10,3 +10,5 @@ Added descriptive alt tags to images.
 Updated copyright text to reflect current year.
 
 Condensed CSS element content, getting rid of redundancies.
+
+![screenshot of website](/assets/Website_Screen_Capture.png "live website")
